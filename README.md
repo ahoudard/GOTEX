@@ -3,10 +3,18 @@ Python code for the paper "A Generative Model for Texture Synthesis based on Opt
 
 ## Setup
 
-[Recommanded] create a proper virtual environement and activate it
-`python -m venv gotexvenv`
-[linux] `gotexvenv/bin/activate` [windows] `.\gotexvenv\Scripts\activate`
-Install requirements 
+#### [Recommanded] 
+create a proper virtual environement `python -m venv gotexvenv`
+
+activate it
+
+
+[linux] `gotexvenv/bin/activate`
+
+[windows] `.\gotexvenv\Scripts\activate`
+
+
+#### Install requirements 
 `python -m pip install -r requirements.txt`
 
 ## Running the code with default parameters
